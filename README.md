@@ -46,7 +46,7 @@ Análisis mediante gráficas
 
 La aplicación permite representar los datos y visualizar tendencias para facilitar su interpretación.
 
-ínea de mejor ajuste (LOBF)
+Línea de mejor ajuste (LOBF)
 
 Se incorpora la opción de Dibujar LOBF para representar gráficamente la tendencia de los datos.
 
